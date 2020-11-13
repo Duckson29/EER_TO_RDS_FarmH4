@@ -1,9 +1,9 @@
 # EER_TO_RDS_FarmH4
 # Opgave beskrivlse
 
-convertere EER to et relatione database schema
-følg mappingsrelger.
-send git til lærenes mail.
+#### convertere EER to et relatione database schema
+#### følg mappingsrelger.
+##### send git til lærenes mail.
 
 og nu skal der bare håbes på at man "Består"...
 
